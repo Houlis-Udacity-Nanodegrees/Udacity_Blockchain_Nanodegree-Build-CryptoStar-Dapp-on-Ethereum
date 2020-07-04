@@ -1,5 +1,11 @@
-# Udacity_Blockchain_Nanodegree-Build-CryptoStar-Dapp-on-Ethereum
-Project **#2** on Udacity's Blockchain Developer Nanodegree program
+# Udacity Blockchain Nanodegree - Build a CryptoStar DApp on Ethereum
+In this project I built a smart contract, created a notary service, and deployed it on the Ethereum Rinkeby blockchain.
+
+Things you can do with the CryptoStars DApp:
+* claim a star
+* find a star that's been claimed
+* exchange stars (two people can exchange their CryptoStar tokens)
+* transfer a star
 
 ## Project overview
 1. Truffle version: `v5.1.14-nodeLTS.0 (core: 5.1.13)`
