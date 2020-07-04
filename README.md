@@ -1,7 +1,7 @@
 # Udacity Blockchain Nanodegree - Build a CryptoStar DApp on Ethereum
 In this project I built a smart contract, created a notary service, and deployed it on the Ethereum Rinkeby blockchain.
 
-Things you can do with the CryptoStars DApp:
+## Things you can do with the CryptoStars DApp:
 * claim a star
 * find a star that's been claimed
 * exchange stars (two people can exchange their CryptoStar tokens)
