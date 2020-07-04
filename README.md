@@ -1,5 +1,5 @@
 # Udacity_Blockchain_Nanodegree-Build-CryptoStar-Dapp-on-Ethereum
-Project #3 on Udacity's Blockchain Developer Nanodegree program
+Project **#2** on Udacity's Blockchain Developer Nanodegree program
 
 ## Project overview
 1. Truffle version: `v5.1.14-nodeLTS.0 (core: 5.1.13)`
